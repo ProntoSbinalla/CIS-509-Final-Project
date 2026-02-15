@@ -1,0 +1,833 @@
+{
+  "filtering_criteria": {
+    "city": "Nashville",
+    "category": "Music Venues",
+    "date_range": "2013-01-01 to 2019-12-31",
+    "minimum_reviews": 20
+  },
+  "dataset_summary": {
+    "total_venues": 100,
+    "total_reviews": 18557,
+    "actual_date_range": {
+      "earliest_review": "2013-01-01 03:26:14",
+      "latest_review": "2019-12-30 23:20:48"
+    },
+    "reviews_per_venue": {
+      "mean": 185.57,
+      "median": 103.5,
+      "min": 20,
+      "max": 1782,
+      "std": 230.28371850849774
+    },
+    "star_rating_distribution": {
+      "1": 2339,
+      "2": 1493,
+      "3": 2254,
+      "4": 4803,
+      "5": 7668
+    },
+    "average_star_rating": 3.752707873039823
+  },
+  "venue_details": [
+    {
+      "name": "National Underground",
+      "business_id": "RJPRi1pwocHNZr9ISz_P-A",
+      "overall_stars": 2.5,
+      "total_review_count": 126,
+      "filtered_review_count": 104,
+      "address": "105 Broadway"
+    },
+    {
+      "name": "Marathon Music Works",
+      "business_id": "1Rk5z7X6hi0l6YSQ-5NVEA",
+      "overall_stars": 3.5,
+      "total_review_count": 100,
+      "filtered_review_count": 75,
+      "address": "1402 Clinton St"
+    },
+    {
+      "name": "Winners Bar and Grill Nashville",
+      "business_id": "9XkgYvXhYibe85V6mNE_TQ",
+      "overall_stars": 3.0,
+      "total_review_count": 102,
+      "filtered_review_count": 85,
+      "address": "1913 Division St"
+    },
+    {
+      "name": "Nashville Symphony",
+      "business_id": "BWPokhrYnWdfxdaUaM6l9Q",
+      "overall_stars": 4.5,
+      "total_review_count": 107,
+      "filtered_review_count": 73,
+      "address": "1 Symphony Pl"
+    },
+    {
+      "name": "Tennessee Brew Works",
+      "business_id": "dYYkzkiAQoOtRjdR0kcspw",
+      "overall_stars": 4.5,
+      "total_review_count": 421,
+      "filtered_review_count": 312,
+      "address": "809 Ewing Ave"
+    },
+    {
+      "name": "Bridgestone Arena",
+      "business_id": "KC4Eo1S3AMA2qk8ULiLEkg",
+      "overall_stars": 4.0,
+      "total_review_count": 232,
+      "filtered_review_count": 177,
+      "address": "501 Broadway"
+    },
+    {
+      "name": "Layla's Honky Tonk",
+      "business_id": "6p07zfmJWvytr0paqpyvbg",
+      "overall_stars": 4.0,
+      "total_review_count": 194,
+      "filtered_review_count": 136,
+      "address": "418 Broadway"
+    },
+    {
+      "name": "Ole Red",
+      "business_id": "Sh5x88Ty9NGgMvLoIKxAiQ",
+      "overall_stars": 3.5,
+      "total_review_count": 629,
+      "filtered_review_count": 417,
+      "address": "300 Broadway"
+    },
+    {
+      "name": "Margaritaville - Nashville",
+      "business_id": "kjhIbW8NKRvXmLDwz7lzhw",
+      "overall_stars": 3.5,
+      "total_review_count": 580,
+      "filtered_review_count": 427,
+      "address": "322 Broadway"
+    },
+    {
+      "name": "12th & Porter",
+      "business_id": "eWzMF5AFIAiyixTWor9uOw",
+      "overall_stars": 3.5,
+      "total_review_count": 46,
+      "filtered_review_count": 22,
+      "address": "114 12th Ave N"
+    },
+    {
+      "name": "Rippy's Bar & Grill",
+      "business_id": "Ns8vJxhsc5ygiX7Vff1bDQ",
+      "overall_stars": 3.0,
+      "total_review_count": 900,
+      "filtered_review_count": 676,
+      "address": "429 Broadway"
+    },
+    {
+      "name": "Tennessee Performing Arts Center",
+      "business_id": "efGqAYPCCxPvHPX3dCM8bQ",
+      "overall_stars": 4.0,
+      "total_review_count": 96,
+      "filtered_review_count": 63,
+      "address": "505 Deaderick St"
+    },
+    {
+      "name": "Soulshine Pizza Factory",
+      "business_id": "LmRyuir7orBNN43fyp8buQ",
+      "overall_stars": 3.5,
+      "total_review_count": 211,
+      "filtered_review_count": 214,
+      "address": "1907 Division St"
+    },
+    {
+      "name": "Wildhorse Saloon",
+      "business_id": "maOMGu_2dSHKydBgZdTsvQ",
+      "overall_stars": 3.5,
+      "total_review_count": 559,
+      "filtered_review_count": 427,
+      "address": "120 2nd Ave N"
+    },
+    {
+      "name": "NashHouse Southern Spoon and Saloon",
+      "business_id": "uHfHKZj_RsNwP03ar_vwQg",
+      "overall_stars": 3.5,
+      "total_review_count": 226,
+      "filtered_review_count": 128,
+      "address": "114 8th Ave S"
+    },
+    {
+      "name": "Nashville Palace",
+      "business_id": "42tur3_5JgqOU-5KoY-zHQ",
+      "overall_stars": 3.5,
+      "total_review_count": 172,
+      "filtered_review_count": 153,
+      "address": "2611 McGavock Pike"
+    },
+    {
+      "name": "Twin Kegs",
+      "business_id": "znrgu7fSTbFa9LVm__CV7A",
+      "overall_stars": 3.5,
+      "total_review_count": 71,
+      "filtered_review_count": 59,
+      "address": "413 W Thompson Ln"
+    },
+    {
+      "name": "Big Machine Brewery & Distillery",
+      "business_id": "y5HKctZc_3KBOryo_urAWQ",
+      "overall_stars": 4.5,
+      "total_review_count": 43,
+      "filtered_review_count": 21,
+      "address": "122 3rd Ave S"
+    },
+    {
+      "name": "The Bluebird Cafe",
+      "business_id": "_XlYymFKwww0bGIgwvNbcA",
+      "overall_stars": 4.0,
+      "total_review_count": 384,
+      "filtered_review_count": 302,
+      "address": "4104 Hillsboro Pike"
+    },
+    {
+      "name": "Tin Roof",
+      "business_id": "_4LtVmrCdz40l1DnptAmgQ",
+      "overall_stars": 3.0,
+      "total_review_count": 215,
+      "filtered_review_count": 153,
+      "address": "1516 Demonbreun St"
+    },
+    {
+      "name": "The Well Coffeehouse",
+      "business_id": "GdLJIhP0BSI-wSACyUribg",
+      "overall_stars": 4.0,
+      "total_review_count": 60,
+      "filtered_review_count": 38,
+      "address": "2035 Richard Jones Rd"
+    },
+    {
+      "name": "The Stone Fox",
+      "business_id": "ai9OgENCC63Hw7VYWRkV2Q",
+      "overall_stars": 3.5,
+      "total_review_count": 144,
+      "filtered_review_count": 135,
+      "address": "712 51st Ave N"
+    },
+    {
+      "name": "Tootsie's Orchid Lounge",
+      "business_id": "DPtdBtLp6ng9cAB9_rzB6g",
+      "overall_stars": 3.5,
+      "total_review_count": 981,
+      "filtered_review_count": 726,
+      "address": "422 Broadway"
+    },
+    {
+      "name": "The Woods Amphitheater At Fontanel",
+      "business_id": "RS_4QLbSXHuixrEbrXJVvA",
+      "overall_stars": 2.5,
+      "total_review_count": 20,
+      "filtered_review_count": 20,
+      "address": "4125 Whites Creek Pike"
+    },
+    {
+      "name": "The Sutler Saloon",
+      "business_id": "dzAV7NCPW7PYWLYqgPE_GQ",
+      "overall_stars": 3.5,
+      "total_review_count": 381,
+      "filtered_review_count": 320,
+      "address": "2600 8th Ave S, Ste 109"
+    },
+    {
+      "name": "Paradise Park Trailer Resort",
+      "business_id": "4lT3LIMRWCDrpxsjHWscIA",
+      "overall_stars": 3.5,
+      "total_review_count": 299,
+      "filtered_review_count": 203,
+      "address": "411 Broadway"
+    },
+    {
+      "name": "Woolworth on Fifth",
+      "business_id": "C1rcsEknUcuA-qTQagdTBw",
+      "overall_stars": 4.0,
+      "total_review_count": 299,
+      "filtered_review_count": 276,
+      "address": "221 5th Ave N"
+    },
+    {
+      "name": "FooBar",
+      "business_id": "Q8gkiqbCKJGKMIa-06pZtA",
+      "overall_stars": 3.5,
+      "total_review_count": 38,
+      "filtered_review_count": 20,
+      "address": "2511 Gallatin Rd"
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "business_id": "eWmcdBJPPQ_iSaNU8uIpFQ",
+      "overall_stars": 3.0,
+      "total_review_count": 312,
+      "filtered_review_count": 238,
+      "address": "100 Broadway"
+    },
+    {
+      "name": "The 5 Spot",
+      "business_id": "I3_iREO5YfeuuO2CkeHc9g",
+      "overall_stars": 4.0,
+      "total_review_count": 136,
+      "filtered_review_count": 90,
+      "address": "1006 Forrest Ave"
+    },
+    {
+      "name": "Sheraton Music City Hotel",
+      "business_id": "1I_qcjb-UuAiA7kwT_xPCA",
+      "overall_stars": 3.0,
+      "total_review_count": 257,
+      "filtered_review_count": 199,
+      "address": "777 McGavock Pike"
+    },
+    {
+      "name": "Bootleggers Inn",
+      "business_id": "cEb1xzZzp6b4TM-MrqxktQ",
+      "overall_stars": 4.0,
+      "total_review_count": 122,
+      "filtered_review_count": 97,
+      "address": "207 Broadway"
+    },
+    {
+      "name": "The Stage on Broadway",
+      "business_id": "sO1OD0SZkXXPtIXj2cS4oA",
+      "overall_stars": 4.0,
+      "total_review_count": 407,
+      "filtered_review_count": 253,
+      "address": "412 Broadway"
+    },
+    {
+      "name": "The Valentine",
+      "business_id": "1RerTYaZEAfmSARDhsZ-8Q",
+      "overall_stars": 3.5,
+      "total_review_count": 111,
+      "filtered_review_count": 83,
+      "address": "312 Broadway"
+    },
+    {
+      "name": "Whiskey Bent Saloon",
+      "business_id": "DH-vk-XzWMT9rRLcbBbnUw",
+      "overall_stars": 4.0,
+      "total_review_count": 179,
+      "filtered_review_count": 143,
+      "address": "306 Broadway"
+    },
+    {
+      "name": "The Judge's Vinegarroon",
+      "business_id": "OIMcX4bwh_ue9Tz3I2l7dQ",
+      "overall_stars": 3.5,
+      "total_review_count": 82,
+      "filtered_review_count": 53,
+      "address": "1805 Church St"
+    },
+    {
+      "name": "Plaza Mariachi",
+      "business_id": "zqEmarWiEUQ5jl9R4t8CnQ",
+      "overall_stars": 4.5,
+      "total_review_count": 117,
+      "filtered_review_count": 99,
+      "address": "3955 Nolensville Pk"
+    },
+    {
+      "name": "Nashville Municipal Auditorium",
+      "business_id": "Mbnof_9av8DONSy6RxcNcg",
+      "overall_stars": 2.0,
+      "total_review_count": 25,
+      "filtered_review_count": 22,
+      "address": "417 4th Ave N"
+    },
+    {
+      "name": "Ryman Auditorium",
+      "business_id": "4Cal2AE6cr7m6nL20Rz2kQ",
+      "overall_stars": 4.5,
+      "total_review_count": 574,
+      "filtered_review_count": 411,
+      "address": "116 Rep John Lewis Way N"
+    },
+    {
+      "name": "Legends Corner",
+      "business_id": "FeCkEyoGHVAR7KzrEX-uMA",
+      "overall_stars": 4.0,
+      "total_review_count": 237,
+      "filtered_review_count": 168,
+      "address": "428 Broadway"
+    },
+    {
+      "name": "Music City Center",
+      "business_id": "_GPds78ik2ZtU-40UyAp-w",
+      "overall_stars": 4.0,
+      "total_review_count": 63,
+      "filtered_review_count": 58,
+      "address": "201 Rep John Lewis Way S"
+    },
+    {
+      "name": "Robert's Western World",
+      "business_id": "tELoGj2QJYYFQ1jo_XXbpA",
+      "overall_stars": 4.5,
+      "total_review_count": 822,
+      "filtered_review_count": 631,
+      "address": "416 Broadway, Ste B"
+    },
+    {
+      "name": "Second Fiddle",
+      "business_id": "wjGmBfeFrh71764EQcZzxg",
+      "overall_stars": 4.0,
+      "total_review_count": 120,
+      "filtered_review_count": 72,
+      "address": "420 Broadway"
+    },
+    {
+      "name": "Tin Roof Broadway",
+      "business_id": "fy7kLejLjyVsbVycL6gqfQ",
+      "overall_stars": 3.5,
+      "total_review_count": 274,
+      "filtered_review_count": 248,
+      "address": "316 Broadway Ave"
+    },
+    {
+      "name": "Sambuca Restaurant",
+      "business_id": "ZNxFIwgPnmLu6ouQPPpR_Q",
+      "overall_stars": 4.0,
+      "total_review_count": 679,
+      "filtered_review_count": 463,
+      "address": "601 12th Ave S"
+    },
+    {
+      "name": "Bavarian Bierhaus",
+      "business_id": "5DDPX5QQS43uACR1MiCVPA",
+      "overall_stars": 3.5,
+      "total_review_count": 539,
+      "filtered_review_count": 425,
+      "address": "121 Opry Mills Dr, Ste 315"
+    },
+    {
+      "name": "City Winery Nashville",
+      "business_id": "oJvOiVyzqWqOfvaRH_TflA",
+      "overall_stars": 3.5,
+      "total_review_count": 515,
+      "filtered_review_count": 414,
+      "address": "609 Lafayette St"
+    },
+    {
+      "name": "Loveless Cafe",
+      "business_id": "OWOOc0YjU_kioLeEgo5VCA",
+      "overall_stars": 4.5,
+      "total_review_count": 2452,
+      "filtered_review_count": 1782,
+      "address": "8400 Hwy 100"
+    },
+    {
+      "name": "Rocketown",
+      "business_id": "PnLhRzyTRCd2gHSmukcy7w",
+      "overall_stars": 3.5,
+      "total_review_count": 28,
+      "filtered_review_count": 20,
+      "address": "601 4th Ave S"
+    },
+    {
+      "name": "Big Shotz",
+      "business_id": "01fP8pelwuzqLKvtRLw-vA",
+      "overall_stars": 3.0,
+      "total_review_count": 86,
+      "filtered_review_count": 62,
+      "address": "115 2nd Ave N"
+    },
+    {
+      "name": "The Basement",
+      "business_id": "PlXN5XKMoZNu4K34tsQIcw",
+      "overall_stars": 4.0,
+      "total_review_count": 63,
+      "filtered_review_count": 29,
+      "address": "1604 8th Ave S"
+    },
+    {
+      "name": "Fat Kat Slim's",
+      "business_id": "Av_XS0ESX4Jpwvg6D2CfVQ",
+      "overall_stars": 3.5,
+      "total_review_count": 68,
+      "filtered_review_count": 20,
+      "address": "730 8th Ave S"
+    },
+    {
+      "name": "Cannery Ballroom",
+      "business_id": "7uxRKfcaJw9nqP3phTyacg",
+      "overall_stars": 3.0,
+      "total_review_count": 71,
+      "filtered_review_count": 48,
+      "address": "1 Cannery Row"
+    },
+    {
+      "name": "Commodore Grille",
+      "business_id": "1BjbKfKQNuVucKFN7taNZQ",
+      "overall_stars": 4.0,
+      "total_review_count": 39,
+      "filtered_review_count": 29,
+      "address": "2613 W End Ave"
+    },
+    {
+      "name": "The Local",
+      "business_id": "rOjPwI0lLZMoQEW3slnmXQ",
+      "overall_stars": 4.0,
+      "total_review_count": 53,
+      "filtered_review_count": 28,
+      "address": "110 28th Ave N"
+    },
+    {
+      "name": "The Family Wash",
+      "business_id": "cBHzDxKCsosdDI4UR3w-eg",
+      "overall_stars": 4.0,
+      "total_review_count": 86,
+      "filtered_review_count": 29,
+      "address": "2038 Greenwood Ave"
+    },
+    {
+      "name": "Drifters",
+      "business_id": "mW-Whzi8dASVhkajlhd1dw",
+      "overall_stars": 4.0,
+      "total_review_count": 277,
+      "filtered_review_count": 222,
+      "address": "1008B Woodland St"
+    },
+    {
+      "name": "Belcourt Theatre",
+      "business_id": "KqF1W-GxTAnOZtcMNS5Wiw",
+      "overall_stars": 4.5,
+      "total_review_count": 209,
+      "filtered_review_count": 103,
+      "address": "2102 Belcourt Ave"
+    },
+    {
+      "name": "The Country",
+      "business_id": "RfuAB4wFMXFeI_7Pf3PYqw",
+      "overall_stars": 4.0,
+      "total_review_count": 38,
+      "filtered_review_count": 41,
+      "address": "110 28th Ave N"
+    },
+    {
+      "name": "Mercy Lounge",
+      "business_id": "WrKt4zg__6UgwqqINcoiFw",
+      "overall_stars": 4.0,
+      "total_review_count": 109,
+      "filtered_review_count": 58,
+      "address": "1 Cannery Row"
+    },
+    {
+      "name": "EXIT/IN",
+      "business_id": "eic2JlbB24qel-u9VG7PGA",
+      "overall_stars": 4.0,
+      "total_review_count": 90,
+      "filtered_review_count": 50,
+      "address": "2208 Elliston Pl"
+    },
+    {
+      "name": "Frisky Frog's",
+      "business_id": "Bcb36UXi2iy2s0xY1kkFzw",
+      "overall_stars": 2.5,
+      "total_review_count": 73,
+      "filtered_review_count": 74,
+      "address": "1530 Demonbreun St"
+    },
+    {
+      "name": "Springwater",
+      "business_id": "YDfQlJKpocV51jCL5Eavrw",
+      "overall_stars": 4.0,
+      "total_review_count": 72,
+      "filtered_review_count": 37,
+      "address": "115 27th Ave N"
+    },
+    {
+      "name": "The Back Corner",
+      "business_id": "zkk_2iqOl0e0guMn4h_AUA",
+      "overall_stars": 4.5,
+      "total_review_count": 27,
+      "filtered_review_count": 26,
+      "address": "1411 5th Ave N"
+    },
+    {
+      "name": "Nashville Underground",
+      "business_id": "dKDyKDdSJR4xHMrTvrSz1Q",
+      "overall_stars": 3.0,
+      "total_review_count": 266,
+      "filtered_review_count": 189,
+      "address": "105 Broadway"
+    },
+    {
+      "name": "Live On The Green Music Festival",
+      "business_id": "Qw83CzUGy2m2ZwvC2YAp9g",
+      "overall_stars": 5.0,
+      "total_review_count": 26,
+      "filtered_review_count": 22,
+      "address": "1 Public Sq"
+    },
+    {
+      "name": "Alley Taps",
+      "business_id": "10KnzbTaz-Yq8wADXGuOlw",
+      "overall_stars": 4.0,
+      "total_review_count": 76,
+      "filtered_review_count": 54,
+      "address": "162 Printers Alley"
+    },
+    {
+      "name": "Honky Tonk Central",
+      "business_id": "ZhA88ILcgEP9DNwZDx7f0A",
+      "overall_stars": 3.5,
+      "total_review_count": 647,
+      "filtered_review_count": 541,
+      "address": "329 Broadway"
+    },
+    {
+      "name": "The Station Inn",
+      "business_id": "d-9vXGzbI2eZAJWKb06h3A",
+      "overall_stars": 4.5,
+      "total_review_count": 196,
+      "filtered_review_count": 132,
+      "address": "402 12th Ave S"
+    },
+    {
+      "name": "Benchmark Bar & Grill",
+      "business_id": "vpQWbT7ZKcHMVKxEVR8Cuw",
+      "overall_stars": 4.0,
+      "total_review_count": 109,
+      "filtered_review_count": 96,
+      "address": "117 2nd Ave N"
+    },
+    {
+      "name": "3rd And Lindsley",
+      "business_id": "hMLcTXMk6xif0qfBi8-8sw",
+      "overall_stars": 4.0,
+      "total_review_count": 196,
+      "filtered_review_count": 147,
+      "address": "816 3rd Ave S"
+    },
+    {
+      "name": "Famous Nashville",
+      "business_id": "Tdp95AviUqzvUd3H2C5xvw",
+      "overall_stars": 3.5,
+      "total_review_count": 109,
+      "filtered_review_count": 99,
+      "address": "110 2nd Ave N"
+    },
+    {
+      "name": "Bobby's Idle Hour Tavern",
+      "business_id": "fdhHca_8iqgvumzvKLE6WQ",
+      "overall_stars": 4.5,
+      "total_review_count": 45,
+      "filtered_review_count": 35,
+      "address": "9 Music Square S"
+    },
+    {
+      "name": "War Memorial Auditorium",
+      "business_id": "DjCCD8xRKAJmM_r-kB1jOA",
+      "overall_stars": 4.0,
+      "total_review_count": 38,
+      "filtered_review_count": 25,
+      "address": "301 6th Ave N"
+    },
+    {
+      "name": "Ascend Amphitheater",
+      "business_id": "kcfBl1u4Zf-qppprSoa1FQ",
+      "overall_stars": 4.0,
+      "total_review_count": 103,
+      "filtered_review_count": 95,
+      "address": "301 1st Ave S"
+    },
+    {
+      "name": "Losers Bar & Grill -Downtown",
+      "business_id": "dB7-TdEG4llXz9HwpMAZPg",
+      "overall_stars": 3.5,
+      "total_review_count": 152,
+      "filtered_review_count": 134,
+      "address": "111 4th Ave"
+    },
+    {
+      "name": "The Basement East",
+      "business_id": "eF4YPHVUOlsGBRfIH-fOmQ",
+      "overall_stars": 4.0,
+      "total_review_count": 61,
+      "filtered_review_count": 61,
+      "address": "917 Woodland St"
+    },
+    {
+      "name": "Dierks Bentley's Whiskey Row",
+      "business_id": "t0FzBzAoqVpK5fNIGOPv-g",
+      "overall_stars": 3.0,
+      "total_review_count": 508,
+      "filtered_review_count": 412,
+      "address": "400 Broadway"
+    },
+    {
+      "name": "360 Burger",
+      "business_id": "xq7UnFYQ4ZvLV6j1UKzEzQ",
+      "overall_stars": 3.5,
+      "total_review_count": 211,
+      "filtered_review_count": 220,
+      "address": "5356 Hickory Hollow Pkwy"
+    },
+    {
+      "name": "Kid Rock's Big Honky Tonk and Rock n' Roll Steakhouse",
+      "business_id": "pIvX_Kw4f82baMUhRO6WxQ",
+      "overall_stars": 3.5,
+      "total_review_count": 483,
+      "filtered_review_count": 232,
+      "address": "221 Broadway"
+    },
+    {
+      "name": "General Jackson Showboat",
+      "business_id": "tewtTBXF-_vNp9Fed97B8w",
+      "overall_stars": 3.5,
+      "total_review_count": 165,
+      "filtered_review_count": 119,
+      "address": "2812 Opryland Dr"
+    },
+    {
+      "name": "Rack Room Blue Bar",
+      "business_id": "k48AVrNPdu8GRv_SxYhqiw",
+      "overall_stars": 3.0,
+      "total_review_count": 45,
+      "filtered_review_count": 31,
+      "address": "1911 Broadway"
+    },
+    {
+      "name": "Music City Bar and Grill",
+      "business_id": "SBwx_tvhCl7JTwFyh0FCCQ",
+      "overall_stars": 3.0,
+      "total_review_count": 55,
+      "filtered_review_count": 36,
+      "address": "2416 Music Valley Dr, Ste 161"
+    },
+    {
+      "name": "Johnny Cash Museum",
+      "business_id": "jSYu2apG1uYq3eNzSA-OHw",
+      "overall_stars": 4.0,
+      "total_review_count": 418,
+      "filtered_review_count": 363,
+      "address": "119 3rd Ave S"
+    },
+    {
+      "name": "Madame Tussauds Nashville",
+      "business_id": "PL7WdNXxZ1tJz7BHzCS66A",
+      "overall_stars": 4.0,
+      "total_review_count": 46,
+      "filtered_review_count": 37,
+      "address": "515 Opry Mills Dr"
+    },
+    {
+      "name": "Big Bang - Dueling Piano Bar",
+      "business_id": "uam_mfkUT8YOXTFQZSSmUg",
+      "overall_stars": 3.5,
+      "total_review_count": 188,
+      "filtered_review_count": 148,
+      "address": "154 2nd Ave N"
+    },
+    {
+      "name": "Listening Room Cafe",
+      "business_id": "Cs0adaMTxJWTDSzuQ3vheg",
+      "overall_stars": 4.0,
+      "total_review_count": 556,
+      "filtered_review_count": 477,
+      "address": "618 4th Ave S"
+    },
+    {
+      "name": "Back Alley Diner",
+      "business_id": "9xa_JD-_Vqbnusmx0k6i9w",
+      "overall_stars": 4.0,
+      "total_review_count": 218,
+      "filtered_review_count": 211,
+      "address": "217 Arcade Aly"
+    },
+    {
+      "name": "DawgHouse Saloon",
+      "business_id": "7NTAlTr6io7t6iMwJbgsVw",
+      "overall_stars": 3.0,
+      "total_review_count": 126,
+      "filtered_review_count": 111,
+      "address": "1522 Demonbreun St"
+    },
+    {
+      "name": "WannaB's Karaoke Bar",
+      "business_id": "iLBqcyjmrHzCIt5NTDWOBw",
+      "overall_stars": 3.5,
+      "total_review_count": 85,
+      "filtered_review_count": 77,
+      "address": "305 Broadway"
+    },
+    {
+      "name": "Grand Ole Opry",
+      "business_id": "-9NmUeTphyS9Lq1o9MACGw",
+      "overall_stars": 4.5,
+      "total_review_count": 687,
+      "filtered_review_count": 541,
+      "address": "2804 Opryland Dr"
+    },
+    {
+      "name": "Belcourt Taps",
+      "business_id": "K59I711q4mFXw7ZBxdwBTg",
+      "overall_stars": 3.0,
+      "total_review_count": 187,
+      "filtered_review_count": 127,
+      "address": "2117 Belcourt Ave"
+    },
+    {
+      "name": "Flying Saucer Draught Emporium",
+      "business_id": "4bOqibZuKDbnOa-K0kM4Sg",
+      "overall_stars": 4.0,
+      "total_review_count": 484,
+      "filtered_review_count": 334,
+      "address": "111 10th Ave S, Ste 310"
+    },
+    {
+      "name": "BB King's Blues Club",
+      "business_id": "1KpNlu8VM8ukw3uOzmMFPA",
+      "overall_stars": 3.5,
+      "total_review_count": 583,
+      "filtered_review_count": 477,
+      "address": "152 2nd Ave N"
+    },
+    {
+      "name": "Ms. Kelli's Karaoke Bar",
+      "business_id": "fJSTZaOh_n5D6bRoqd7l_Q",
+      "overall_stars": 2.5,
+      "total_review_count": 88,
+      "filtered_review_count": 68,
+      "address": "207 Printers Aly"
+    },
+    {
+      "name": "Third Man Records",
+      "business_id": "OdYRrJsJnCFpMYc_PuWFdw",
+      "overall_stars": 4.5,
+      "total_review_count": 156,
+      "filtered_review_count": 128,
+      "address": "623 7th Ave S"
+    },
+    {
+      "name": "Dan McGuinness Irish Pub",
+      "business_id": "y7AvDp_0WZlyjoAeWULJMg",
+      "overall_stars": 3.5,
+      "total_review_count": 85,
+      "filtered_review_count": 38,
+      "address": "1538 Demonbreun St"
+    },
+    {
+      "name": "Anthem",
+      "business_id": "m-GAMtteFJGUDrIb2yN-bw",
+      "overall_stars": 3.0,
+      "total_review_count": 24,
+      "filtered_review_count": 24,
+      "address": "125 12th Ave N"
+    },
+    {
+      "name": "Music City Tippler",
+      "business_id": "vysyK-G875gUP08n2Qnj3g",
+      "overall_stars": 3.5,
+      "total_review_count": 64,
+      "filtered_review_count": 64,
+      "address": "1922 Adelicia St"
+    },
+    {
+      "name": "John Rich's Redneck Riviera",
+      "business_id": "35JPTJ69zVoTGuk6TBX5qA",
+      "overall_stars": 3.5,
+      "total_review_count": 108,
+      "filtered_review_count": 65,
+      "address": "208 Broadway"
+    }
+  ]
+}
